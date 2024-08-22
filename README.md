@@ -28,10 +28,7 @@
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MFurkanYaman&layout=donut&hide=php,css)](https://github.com/anuraghazra/github-readme-stats)
 
-
----
 [![](https://visitcount.itsvg.in/api?id=MFurkanYaman&icon=8&color=1)](https://visitcount.itsvg.in)
 ---
-
 
 
