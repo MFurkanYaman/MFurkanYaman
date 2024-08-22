@@ -12,6 +12,7 @@
 
 
 📬 **Contact Information**
+
 📧 Email: mfyaman.ceng@gmail.com<br>🔗 LinkedIn: [linkedin.com/in/metinfurkanyaman](https://linkedin.com/in/metinfurkanyaman)
 
 # 💻 Tech Stack:
