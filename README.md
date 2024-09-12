@@ -2,13 +2,6 @@
 
 🎓 **Senior Computer Engineering Student** (Necmettin Erbakan University)  
 💻 **Programming Languages:** Python, C, MATLAB, C++, Java  
-🧠 **Interests:**
-
-- 📊**Data Science and Analytics**  
-- 🌐**Autonomous Systems**
-- 🤖**Artificial Intelligence and Machine Learning**  
-- 🛠️**Simulation Systems**  
-    
 
 
 📬 **Contact Information**
