@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 🎓 **Senior Computer Engineering Student** (Necmettin Erbakan University)  
 💻 **Programming Languages:** Python, C, MATLAB, C++, Java  
