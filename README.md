@@ -11,7 +11,7 @@
 # 💻 Tech Stack:
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,matlab,c,java,mysql,postman,postgresql,qt,ubuntu" alt="My Skills">  
+    <img src="https://skillicons.dev/icons?i=python,matlab,c,,mysql,postman,postgresql,ubuntu" alt="My Skills">  
 <!--     <img src="https://avatars.githubusercontent.com/u/1743799?s=200&v=4" width="50" alt="Gazebo" title="Gazebo"/> -->
     
     
